@@ -1,2 +1,3 @@
 # building-a-new-world
-Getting things done, one action at a time.
+
+This is a pain in the ass. Hopefully I like it.
